@@ -1,4 +1,4 @@
-# O'todo
+# To Do List + API
 
 Salut à toi jeune entrepreneur ! Alors si aujourd'hui on se permet de te contacter, c'est pour une raison très simple. Michel, notre dev, a commencé un projet super important et est parti en nous laissant en plan 😭. Nous avons besoin de toi pour le terminer !
 
