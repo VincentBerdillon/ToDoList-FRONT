@@ -1,0 +1,19 @@
+
+### Récupérer toutes les tâches
+GET http://localhost:3000/tasks
+
+### Ajouter une tache
+POST http://localhost:3000/tasks
+Content-Type: application/json
+
+### Updater une tache
+PATCH http://localhost:3000/tasks/1
+Content-Type: application/json
+
+{
+    "name": "coucou"
+}
+
+### Updater une tache
+DELETE http://localhost:3000/tasks/3
+Content-Type: application/json
